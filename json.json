@@ -1,0 +1,32 @@
+{
+    "department": {
+       "cse": {
+          "book": {
+             "title": "web programming",
+             "author": "chrisbates",
+             "publisher": "wiley",
+             "yearOfPublication": "2012"
+          }
+       },
+       "ece": {
+          "book": {
+             "title": "internet worldwideweb",
+             "author": "ditel&ditel",
+             "publisher": "person",
+             "yearOfPublication": "2016"
+          }
+       },
+       "mech": {
+          "title": "internet worldwideweb",
+          "author": "ditel&ditel",
+          "publisher": "person",
+          "yearOfPublication": "2016"
+       },
+       "General": {
+          "title": "internet worldwideweb",
+          "author": "ditel&ditel",
+          "publisher": "person",
+          "yearOfPublication": "2016"
+       }
+    }
+ }
